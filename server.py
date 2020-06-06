@@ -5,6 +5,7 @@ PORT = 8888
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.bind((HOST, PORT))
+    s.listen()
     conn, adrr = s.accept()
     with conn:
         print('Accepting connection', adrr)

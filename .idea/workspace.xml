@@ -25,10 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c782f89e-013d-4950-9680-68cf1a3f4433" name="Default Changelist" comment="Updated.">
-      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+    <list default="true" id="c782f89e-013d-4950-9680-68cf1a3f4433" name="Default Changelist" comment="Updated socket programming">
+      <change afterPath="$PROJECT_DIR$/socketConnect.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,58 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.socketConnect">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socketConnect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketConnect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.socketConnect" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591467047500</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated socket programming">
+      <created>1591467877851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591467877851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,9 +198,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated." />
+    <MESSAGE value="Updated socket programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated socket programming" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom" timestamp="1591471892897">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1591471892897" />
+    <state width="1345" height="181" key="GridCell.Tab.0.center" timestamp="1591471892897">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1591471892897" />
+    <state width="1345" height="181" key="GridCell.Tab.0.left" timestamp="1591471892897">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1591471892897" />
+    <state width="1345" height="181" key="GridCell.Tab.0.right" timestamp="1591471892897">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1591471892897" />
     <state x="321" y="129" key="MultipleFileMergeDialog" timestamp="1591466994972">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -151,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="92" y="92" width="1182" height="552" key="ShowDiffWithBranchDialog/0.0.1366.736@0.0.1366.736" timestamp="1591448267845" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591467207063">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591467880154">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1591467207063" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1591467880154" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591467267346">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
