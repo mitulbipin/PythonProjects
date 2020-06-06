@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c782f89e-013d-4950-9680-68cf1a3f4433" name="Default Changelist" comment="" />
+    <list default="true" id="c782f89e-013d-4950-9680-68cf1a3f4433" name="Default Changelist" comment="Updated." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +40,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588447919595</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated.">
+      <created>1591448446136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591448446136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,15 +90,28 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated." />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1182" height="552" key="ShowDiffWithBranchDialog" timestamp="1591448267845">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="92" y="92" width="1182" height="552" key="ShowDiffWithBranchDialog/0.0.1366.736@0.0.1366.736" timestamp="1591448267845" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591448472212">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1591448472212" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591448226309">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1591448226309" />
+    <state x="391" y="156" key="git4idea.merge.GitPullDialog" timestamp="1591448305214">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="391" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.736@0.0.1366.736" timestamp="1591448305214" />
   </component>
 </project>
